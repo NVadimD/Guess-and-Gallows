@@ -138,4 +138,3 @@ export const startGame = () => {
     };
 };
 
-console.log('Hi!');
